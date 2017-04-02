@@ -1,0 +1,143 @@
+@charset "UTF-8";
+
+
+
+#header{
+		position:absolute;
+		height: 50px;
+		width: 100%;
+		background-color: transparent !important;	
+		z-index:9;
+		padding-left:40%;
+		
+	}
+
+#mySidenav {
+    font-family: 'Raleway', sans-serif;
+	text-align:center;
+	font-variant: small-caps;
+	font-size:20px;
+	text-decoration: none !important;
+}
+
+#menu{
+	font-family: 'Raleway', sans-serif;
+	font-variant: small-caps;
+	text-decoration: none !important;
+}
+
+
+#h1{
+	font-family: 'Raleway', sans-serif;
+	font-variant: small-caps;
+	font-size: 3vw;
+	text-decoration: none !important;
+	color: black;
+	
+}
+
+
+#h2 {
+	font-family: 'Raleway', sans-serif;
+	font-variant: small-caps;
+	font-size: 2vw;
+	text-decoration: none !important;
+	color: black;
+}
+
+
+#h4	{
+	font-family: 'Raleway', sans-serif;
+	font-variant: small-caps;
+	font-size: 2vw;
+	text-decoration: none !important;
+	color: black;
+	}
+	
+	
+	
+#p1	{
+	font-family: 'Raleway', sans-serif;
+	font-variant: small-caps;
+	font-size: 1.5vw;
+	text-decoration: none !important;
+	color: black;
+	}
+
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+	text-decoration: none !important;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none !important;
+    font-size: 25px;
+    color: #737373;
+    display: block;
+    transition: 1.0s
+}
+
+.sidenav a:hover, .offcanvas a:focus{
+    color: #ffffff;
+	font-size:40px;
+	transition: 0.5s;
+	text-decoration: none !important;
+	
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  
+}
+
+
+
+
+#climine {align-content: center;
+}
+
+#4v{align-content: center;
+}
+
+
+#jm{
+	align-content: center;
+}
+
+#up{
+	align-content: center;
+}
+
+#fc{
+	align-content: center;
+}
+
+
+#ui{
+	align-content: center;
+}
+
+.centerBlock {
+  display: table;
+  margin: auto;
+}
+
